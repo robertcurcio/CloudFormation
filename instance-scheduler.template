@@ -1131,7 +1131,7 @@
                     ]
                 },
                 "Code": {
-                    "S3Bucket": "fan-secops-autoscheduler",
+                    "S3Bucket": "my-autoscheduler",
                     "S3Key": "instance-scheduler-2.10.0.25.zip"
                 },
                 "Handler": "main.lambda_handler",
